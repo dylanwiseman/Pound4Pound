@@ -16,6 +16,7 @@ Pound4Pound is a web app that will allow users to body weight, protein intake, a
 - App will display graph of body weight over time
 - Badges earned for reaching certain goals
 - Add tracking for shoulder press, mile run, and other (user-created?) exercises
+- Users can join squads with associated leaderboard
 
 
 
