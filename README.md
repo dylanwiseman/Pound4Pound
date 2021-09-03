@@ -4,7 +4,7 @@ Pound4Pound is a web app that will allow users to body weight, protein intake, a
 
 ## MVP
 
-- users can enter goal body weight and deadline
+- users can enter goal body weight
 - users can enter daily body weight
 - users can enter daily protein intake
 - users can enter and update personal records for bench, squat, deadlift
